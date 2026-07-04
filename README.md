@@ -192,7 +192,7 @@ Superstore-Sales-Analysis/
 
 BS Economics & Mathematics Student at IBA Karachi
 
-Aspiring Data Analyst | Learning Python, SQL, Excel & Power BI
+Aspiring Data & Business Analyst | Python | SQL | Excel | Power BI
 
 GitHub: https://github.com/SufyanShaikh213
 
