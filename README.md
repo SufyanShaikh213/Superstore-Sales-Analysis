@@ -148,7 +148,7 @@ The dataset contains retail transaction records including:
 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/Superstore-Sales-Analysis.git
+git clone https://github.com/SufyanShaikh213/Superstore-Sales-Analysis.git
 ```
 
 2. Navigate to the project folder
@@ -196,7 +196,7 @@ Aspiring Data Analyst | Learning Python, SQL, Excel & Power BI
 
 GitHub: https://github.com/SufyanShaikh213
 
-LinkedIn: https://www.linkedin.com/in/www.linkedin.com/in/sufyanahmed18/
+LinkedIn: https://www.linkedin.com/in/sufyanahmed18/
 
 ---
 
